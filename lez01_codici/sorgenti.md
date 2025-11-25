@@ -9,5 +9,6 @@ System.out.println("Ciao, mi dispiace per coloro che non hanno il block num ;( "
 ```
 
 ```python
-print "Sono il linguaggio più bello del mondo AHAHAHA"
+print "Hello World!"
 ```
+
